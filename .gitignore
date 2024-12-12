@@ -1,0 +1,4 @@
+# Ignore Go dependencies
+vendor/
+*.mod
+*.sum
